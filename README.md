@@ -1,13 +1,9 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+![monibank](https://github.com/CbCavalcante/MoniBank/assets/122488009/f271a836-64c9-4108-8fff-e52e3a5a2597)
 
-<hr>
+<h1>MoniBank, o caminho mais seguro para sua liberdade financeira!</h1>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+## O que é o MoniBank?
 
-## Tecnologias utilizadas durante o curso
-* JavaScript
-
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+<p>O MoniBank é um banco digital seguro e moderno onde você encontrar maior comodidade para efeturar depósitos, saques, emprestimos entre outras funcionalidades essenciais no seu dia a dia.
+<br> Além de tudo isso, contamos com um sistema de reconhecimento facial que traz ao cliente maior segurança em relação as suas ações realizadas em algum dos nossos serviços. 
+</p>
